@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 7596585620,
+      "name": "муxиддин",
+      "username": "muhiddin_kamolov",
+      "phone": "905982909",
+      "registered": "2026-01-17T15:14:25.603Z",
+      "orders_count": 3,
+      "total_spent": 465000,
+      "address": "namangan toraqorgon yangi obod navoiy kochasi 31-uy"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1768664447258,
+      "userId": 7596585620,
+      "userName": "муxиддин",
+      "userPhone": "996664545",
+      "size": "medium",
+      "description": "shakli tortburchak bezagi tugilgan kun uchun bezak yozuv tugilgan kunig bilan oglim",
+      "price": 120000,
+      "delivery": "yes",
+      "deliveryPrice": 15000,
+      "totalPrice": 135000,
+      "status": "pending",
+      "createdAt": "2026-01-17T15:40:47.258Z",
+      "acceptedAt": null,
+      "completedAt": null
+    },
+    {
+      "id": 1768665070666,
+      "userId": 7596585620,
+      "userName": "муxиддин",
+      "userPhone": "9897654678",
+      "size": "large",
+      "description": "fdsdxfhjbhjbgvfhvjbk",
+      "price": 180000,
+      "delivery": "yes",
+      "address": "gdfcvghbjn",
+      "deliveryPrice": 15000,
+      "totalPrice": 195000,
+      "status": "pending",
+      "createdAt": "2026-01-17T15:51:10.666Z",
+      "acceptedAt": null,
+      "completedAt": null
+    },
+    {
+      "id": 1768666652943,
+      "userId": 7596585620,
+      "userName": "муxиддин",
+      "userPhone": "905982909",
+      "size": "medium",
+      "shape": "round",
+      "decoration": "fruit",
+      "needText": "yes",
+      "text": "sevgilim sizni sevaman tugilgan kuningiz bilan",
+      "additionalNotes": "ha banablik bolsin",
+      "description": "Hajm: medium, Shakl: round, Bezak: fruit, Yozuv: sevgilim sizni sevaman tugilgan kuningiz bilan, Qo'shimcha: ha banablik bolsin",
+      "price": 120000,
+      "delivery": "yes",
+      "address": "namangan toraqorgon yangi obod navoiy kochasi 31-uy",
+      "hasLocation": false,
+      "deliveryPrice": 15000,
+      "totalPrice": 135000,
+      "status": "pending",
+      "createdAt": "2026-01-17T16:17:32.944Z",
+      "acceptedAt": null,
+      "completedAt": null
+    }
+  ],
+  "admins": [
+    123456789
+  ],
+  "settings": {
+    "delivery_price": 15000,
+    "working_hours": "09:00 - 22:00",
+    "phone": "+998901234567"
+  }
+}
