@@ -4,7 +4,7 @@ const fs = require('fs');
 // ========================
 // 1. TOKEN VA ADMIN SOZLAMALARI
 // ========================
-const token = '8476844848:AAGJ5-HscKtYMgHVv7HmdLqqVgRTlWO7UUQ';
+const token = '8505540452:AAF4KzNUgYr7qS7Pu21bNGVWtBAlqtvsvrI';
 
 // Adminlar ro'yxati (bir nechta admin bo'lishi mumkin)
 const ADMINS = [123456789]; // @muhiddin_kamolov ning ID sini qo'ying
